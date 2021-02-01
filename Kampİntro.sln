@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev.2.6", "Odev.2.6\Odev.2.6.csproj", "{7E08F57F-80C5-4806-9535-2D6E0D6B4224}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3Odev", "Ders3Tekrar\Ders3Odev.csproj", "{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7E08F57F-80C5-4806-9535-2D6E0D6B4224}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E08F57F-80C5-4806-9535-2D6E0D6B4224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E08F57F-80C5-4806-9535-2D6E0D6B4224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
