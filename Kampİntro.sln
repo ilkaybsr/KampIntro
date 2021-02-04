@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kampİntro", "Kampİntro\Kampİntro.csproj", "{10F868A4-001C-4BBA-8F16-DC02FD087CF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "Kampİntro\KampIntro.csproj", "{10F868A4-001C-4BBA-8F16-DC02FD087CF2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{B01C0DCB-E869-4198-9752-3AC03DA18A40}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classİntro", "Classİntro\Classİntro.csproj", "{904B48B0-3252-417F-9B34-C97AE40CF1F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "Classİntro\ClassIntro.csproj", "{904B48B0-3252-417F-9B34-C97AE40CF1F9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{843A956F-F97B-449E-B08A-1462650B8C9C}"
 EndProject
@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev.2.6", "Odev.2.6\Odev.2.6.csproj", "{7E08F57F-80C5-4806-9535-2D6E0D6B4224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3Odev", "Ders3Tekrar\Ders3Odev.csproj", "{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3Odev", "Ders3Tekrar\Ders3Odev.csproj", "{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

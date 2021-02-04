@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Metotlar
+﻿namespace Metotlar
 {
     class Urun
     {
@@ -11,8 +8,5 @@ namespace Metotlar
         public string Aciklama { get; set; }
 
         public int StokAdedi { get; set; }
-
-
-
     }
 }

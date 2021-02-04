@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP2
+﻿namespace OOP2
 {
     //Coorporate// Tüzel
     //miras inheritance

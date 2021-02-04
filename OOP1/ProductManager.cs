@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace OOP1
 {
@@ -16,7 +14,5 @@ namespace OOP1
         {
             Console.WriteLine(product.ProductName + "güncellendi.");
         }
-
-        
     }
 }

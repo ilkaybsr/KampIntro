@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OOP2
+﻿namespace OOP2
 {
     class Program
     {
@@ -30,15 +28,6 @@ namespace OOP2
             MusteriManager musteriManager = new MusteriManager();
             musteriManager.Ekle(musteri1);
             musteriManager.Ekle(musteri2);
-
-
-
-
-
-
-
-
-           
         }
     }
 }

@@ -8,6 +8,5 @@ namespace OOP3
     {
         void Hesapla();
         void BiseyYap();
-
     }
 }

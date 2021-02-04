@@ -40,16 +40,7 @@ namespace Kampİntro
                 Console.WriteLine("Giris Yap Butonu");
             }
 
-
-
-
-
-
-
             Console.WriteLine(kategoriEtiketi);
-           
-
-
         }
     }
 }

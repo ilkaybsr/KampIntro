@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP2
+﻿namespace OOP2
 {
     class GercekMusteri:Musteri
     {
@@ -11,6 +7,5 @@ namespace OOP2
         public string TcNo { get; set; }
         public string Adi { get; set; }
         public string Soyadi { get; set; }
-        
     }
 }

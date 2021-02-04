@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace OOP3
 {
@@ -11,11 +9,7 @@ namespace OOP3
         {
             //Başvuran bilgilerini değerlendirme
             //
-
-           
             krediManager.Hesapla();
-
-            
         }
 
         public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)
@@ -25,6 +19,5 @@ namespace OOP3
                 kredi.Hesapla();
             }
         }
-
     }
 }
