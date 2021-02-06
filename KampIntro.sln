@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev.2.6", "Odev.2.6\Odev.2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3Odev", "Ders3Tekrar\Ders3Odev.csproj", "{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{D5595667-CD49-49FA-B23F-E31AA3CF6AEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD52E797-8BAE-4EA4-AC6E-5B87C72F3AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5595667-CD49-49FA-B23F-E31AA3CF6AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5595667-CD49-49FA-B23F-E31AA3CF6AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5595667-CD49-49FA-B23F-E31AA3CF6AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5595667-CD49-49FA-B23F-E31AA3CF6AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
