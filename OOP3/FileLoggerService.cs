@@ -1,11 +1,15 @@
 ﻿using System;
 
-class FileLoggerService : ILoggerService
-
+namespace OOP3
 {
-    public void Log()
+    class FileLoggerService : ILoggerService
 
     {
-        Console.WriteLine("Dosyaya loglandı");
+        public void Log()
+
+        {
+            Console.WriteLine("Dosyaya loglandı");
+        }
     }
 }
+
