@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{47C63ED2-18BC-4054-B7D4-BF67B8DED11E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{A5DD9D85-E406-4BF3-8246-39D37F4C39D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{A5DD9D85-E406-4BF3-8246-39D37F4C39D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{7B368495-2E99-4D5E-AD23-5A5FAF503CC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{A5DD9D85-E406-4BF3-8246-39D37F4C39D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5DD9D85-E406-4BF3-8246-39D37F4C39D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5DD9D85-E406-4BF3-8246-39D37F4C39D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B368495-2E99-4D5E-AD23-5A5FAF503CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B368495-2E99-4D5E-AD23-5A5FAF503CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B368495-2E99-4D5E-AD23-5A5FAF503CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B368495-2E99-4D5E-AD23-5A5FAF503CC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
